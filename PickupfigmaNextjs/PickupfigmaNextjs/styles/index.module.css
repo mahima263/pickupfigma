@@ -1,0 +1,840 @@
+.pickup {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 50px;
+    font-weight: 600;
+}
+.forEnterprise {
+    position: absolute;
+    top: 18px;
+    left: 478px;
+    font-weight: 600;
+}
+.deliveryPartners {
+    position: absolute;
+    top: 18px;
+    left: 665px;
+    font-weight: 600;
+}
+.login {
+    position: absolute;
+    top: 18px;
+    left: 1269px;
+}
+.pickupParent {
+    position: absolute;
+    top: 6px;
+    left: 27px;
+    width: 1331px;
+    height: 76px;
+}
+.navbar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #040a1a;
+    width: 1440px;
+    height: 87px;
+    overflow: hidden;
+}
+.navbarWrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 87px;
+    text-align: left;
+    font-size: 27px;
+}
+.desktop1Child {
+    position: absolute;
+    top: 86px;
+    left: 0px;
+    background-color: #040a1a;
+    width: 1440px;
+    height: 446px;
+}
+.image1Icon {
+    position: absolute;
+    top: 77px;
+    left: 0px;
+    width: 1440px;
+    height: 480px;
+    object-fit: cover;
+}
+.desktop1Item {
+    position: absolute;
+    top: 455px;
+    left: 162px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0px 4px 6px 1px rgba(0, 0, 0, 0.25);
+    width: 1014px;
+    height: 225px;
+}
+.div {
+    position: absolute;
+    top: 478px;
+    left: 223px;
+    font-size: 8px;
+    font-weight: 300;
+    color: #000;
+    text-align: left;
+}
+.ahmedabad {
+    position: absolute;
+    top: 474px;
+    left: 223px;
+    font-size: 8px;
+    font-weight: 600;
+    color: #000;
+    text-align: left;
+    display: inline-block;
+    width: 42px;
+}
+.city {
+    position: absolute;
+    top: 474px;
+    left: 208px;
+    font-size: 8px;
+    font-weight: 200;
+    color: #000;
+    text-align: left;
+}
+.mapMarkerIcon1 {
+    position: absolute;
+    top: 472px;
+    left: 191px;
+    width: 15px;
+    height: 15px;
+    overflow: hidden;
+}
+.deliveryHai {
+    position: absolute;
+    top: 256px;
+    left: 133px;
+    font-size: 47px;
+    text-align: left;
+}
+.hojayega {
+    position: absolute;
+    top: 309px;
+    left: 133px;
+    font-size: 71px;
+    text-align: left;
+}
+.twoWheelers {
+    position: absolute;
+    top: 120.91px;
+    left: 8.91px;
+    font-weight: 600;
+    display: inline-block;
+    width: 92.91px;
+    height: 22.91px;
+}
+.serviceCardChild {
+    position: absolute;
+    top: 14px;
+    left: 8.91px;
+    border-radius: 10px;
+    background-color: #f0f3ff;
+    width: 92.91px;
+    height: 91.64px;
+}
+.image4Icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 112px;
+    height: 112px;
+    object-fit: cover;
+}
+.serviceCard {
+    position: absolute;
+    top: 500px;
+    left: 259px;
+    width: 112px;
+    height: 143.82px;
+    text-align: left;
+    color: #000;
+}
+.serviceCard1 {
+    position: absolute;
+    top: 500px;
+    left: 435px;
+    width: 112px;
+    height: 143.82px;
+    text-align: left;
+    color: #000;
+}
+.courier {
+    margin: 0;
+}
+.courierService {
+    position: absolute;
+    top: 118px;
+    left: 33px;
+    font-weight: 600;
+    display: inline-block;
+    width: 92.91px;
+    height: 22.91px;
+}
+.serviceCard2 {
+    position: absolute;
+    top: 496px;
+    left: 787px;
+    width: 125.91px;
+    height: 140.91px;
+    text-align: left;
+    color: #000;
+}
+.packersAndMoversContainer {
+    position: absolute;
+    top: 114px;
+    left: 9px;
+    font-weight: 600;
+    white-space: pre-wrap;
+}
+.serviceCard3 {
+    position: absolute;
+    top: 500px;
+    left: 611px;
+    width: 112px;
+    height: 150px;
+    text-align: left;
+    color: #000;
+}
+.desktop1Inner {
+    position: absolute;
+    top: 510px;
+    left: 960px;
+    border-radius: 20px;
+    background-color: #0041f5;
+    width: 88px;
+    height: 135px;
+}
+.takes2Mins1 {
+    position: absolute;
+    top: 566px;
+    left: 975px;
+    font-size: 8px;
+    color: rgba(255, 255, 255, 0.5);
+    text-align: left;
+}
+.arrowRightIcon1 {
+    position: absolute;
+    top: 611px;
+    left: 975px;
+    width: 14px;
+    height: 14px;
+    overflow: hidden;
+}
+.getAnEstimateContainer {
+    position: absolute;
+    top: 525px;
+    left: 975px;
+    text-align: left;
+}
+.movingABillionContainer {
+    position: absolute;
+    top: 748px;
+    left: calc(50% - 426px);
+    font-size: 25px;
+    color: rgba(51, 51, 51, 0.6);
+}
+.desktop1Child1 {
+    position: absolute;
+    top: 902px;
+    left: 0px;
+    background: linear-gradient(202.99deg, #000 11.47%, #040a1a 93.61%);
+    width: 1440px;
+    height: 1725px;
+}
+.b {
+    position: absolute;
+    top: 1164px;
+    left: 151px;
+    font-size: 58px;
+}
+.lakh {
+    position: absolute;
+    top: 1164px;
+    left: 406px;
+    font-size: 58px;
+}
+.crore {
+    position: absolute;
+    top: 1164px;
+    left: 733px;
+    font-size: 58px;
+}
+.crore1 {
+    position: absolute;
+    top: 1164px;
+    left: 1053px;
+    font-size: 58px;
+}
+.cities {
+    position: absolute;
+    top: 1230px;
+    left: 141px;
+    font-size: 49px;
+    color: rgba(255, 255, 255, 0.4);
+}
+.driverPartners {
+    position: absolute;
+    top: 1230px;
+    left: 342px;
+    font-size: 49px;
+    color: rgba(255, 255, 255, 0.4);
+}
+.customers {
+    position: absolute;
+    top: 1230px;
+    left: 735px;
+    font-size: 49px;
+    color: rgba(255, 255, 255, 0.4);
+}
+.trips {
+    position: absolute;
+    top: 1230px;
+    left: 1134px;
+    font-size: 49px;
+    color: rgba(255, 255, 255, 0.4);
+}
+.andThanksToContainer {
+    position: absolute;
+    top: 960px;
+    left: 307px;
+    font-size: 45px;
+}
+.image5Icon {
+    position: absolute;
+    top: 1463px;
+    left: 464px;
+    width: 526px;
+    height: 423px;
+    object-fit: cover;
+}
+.weAreServingContainer {
+    position: absolute;
+    top: 1952px;
+    left: 259px;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.6);
+}
+.someWordsFrom {
+    position: absolute;
+    top: 0px;
+    left: 67px;
+}
+.image6Icon1 {
+    position: absolute;
+    top: 12px;
+    left: 483px;
+    width: 50px;
+    height: 6px;
+    object-fit: cover;
+}
+.image7Icon1 {
+    position: absolute;
+    top: 12px;
+    left: 0px;
+    width: 50px;
+    height: 6px;
+    object-fit: cover;
+}
+.heading {
+    position: absolute;
+    top: 2093px;
+    left: 397px;
+    width: 533px;
+    height: 30px;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.6);
+}
+.activeCardChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.06);
+    width: 357px;
+    height: 366px;
+}
+.wayBetterThanContainer {
+    position: absolute;
+    top: 97px;
+    left: 32px;
+    text-align: left;
+}
+.nagpur {
+    position: absolute;
+    top: 52px;
+    left: 99px;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.6);
+}
+.vinay {
+    position: absolute;
+    top: 30px;
+    left: 98px;
+    font-size: 20px;
+}
+.image8Icon3 {
+    position: absolute;
+    top: 30px;
+    left: 32px;
+    border-radius: 100px;
+    width: 44px;
+    height: 44px;
+    object-fit: cover;
+}
+.activeCard {
+    position: absolute;
+    top: 2178px;
+    left: 187px;
+    width: 357px;
+    height: 366px;
+    font-size: 23px;
+}
+.unactiiveChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0);
+    width: 357px;
+    height: 366px;
+}
+.unactiive {
+    position: absolute;
+    top: 2178px;
+    left: 589px;
+    width: 357px;
+    height: 366px;
+    font-size: 23px;
+}
+.unactiive1 {
+    position: absolute;
+    top: 2178px;
+    left: 991px;
+    width: 357px;
+    height: 366px;
+    font-size: 23px;
+}
+.desktop1Child2 {
+    position: absolute;
+    top: 2629px;
+    left: 0px;
+    background-color: rgba(255, 255, 255, 0.6);
+    width: 1440px;
+    height: 807px;
+}
+.chevronDownIcon3 {
+    position: absolute;
+    top: 3px;
+    left: 963px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+}
+.whatIsPickup1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.accordinationChild {
+    position: absolute;
+    top: 56.85px;
+    left: 0px;
+    width: 987px;
+    height: 1.8px;
+}
+.accordination {
+    position: absolute;
+    top: 2946px;
+    left: 217px;
+    width: 995px;
+    height: 58.5px;
+    font-size: 25px;
+    color: #000;
+}
+.chevronDownIcon4 {
+    position: absolute;
+    top: 0px;
+    left: 963px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+}
+.accordinationItem {
+    position: absolute;
+    top: 53.85px;
+    left: 0px;
+    width: 987px;
+    height: 1.8px;
+}
+.accordination1 {
+    position: absolute;
+    top: 3026px;
+    left: 217px;
+    width: 995px;
+    height: 55.5px;
+    font-size: 25px;
+    color: #000;
+}
+.chevronDownIcon5 {
+    position: absolute;
+    top: 8px;
+    left: 971px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+}
+.howDoIContainer {
+    position: absolute;
+    top: 0px;
+    left: 33px;
+}
+.accordinationInner {
+    position: absolute;
+    top: 282.85px;
+    left: 6px;
+    width: 987px;
+    height: 1.8px;
+}
+.signInTo {
+    margin-bottom: 0px;
+}
+.signInToThePorterAppChoo {
+    margin: 0;
+    padding-left: 20px;
+}
+.getReliableAndContainer {
+    position: absolute;
+    top: 99px;
+    left: 0px;
+    font-size: inherit;
+    font-family: inherit;
+    color: rgba(0, 0, 0, 0.6);
+    white-space: pre-wrap;
+}
+.accordination2 {
+    position: absolute;
+    top: 3095px;
+    left: 211px;
+    width: 1003px;
+    height: 284.5px;
+    text-align: left;
+    font-size: 25px;
+    color: #000;
+}
+.frequentlyAskedQuestions1 {
+    position: absolute;
+    top: 2677px;
+    left: 367px;
+    font-size: 56px;
+    font-weight: 600;
+    color: #000;
+    text-align: left;
+}
+.hereAreSomeContainer {
+    position: absolute;
+    top: 2762px;
+    left: 242px;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.logo {
+    position: absolute;
+    top: 29px;
+    left: 49px;
+    font-size: 54px;
+    font-weight: 600;
+}
+.sendAnything {
+    position: absolute;
+    top: 118px;
+    left: 49px;
+    font-size: 23px;
+    font-weight: 600;
+}
+.anywhere {
+    position: absolute;
+    top: 153px;
+    left: 49px;
+    font-size: 23px;
+    font-weight: 600;
+}
+.anytime {
+    position: absolute;
+    top: 188px;
+    left: 49px;
+    font-size: 23px;
+    font-weight: 600;
+}
+.company {
+    position: absolute;
+    top: 49px;
+    left: 359px;
+    font-size: 23px;
+    font-weight: 600;
+}
+.quickLinks {
+    position: absolute;
+    top: 49px;
+    left: 589px;
+    font-size: 23px;
+    font-weight: 600;
+}
+.support {
+    position: absolute;
+    top: 49px;
+    left: 807px;
+    font-size: 23px;
+    font-weight: 600;
+}
+.image2Icon {
+    position: absolute;
+    top: 49px;
+    left: 1163px;
+    width: 185px;
+    height: 53px;
+    object-fit: cover;
+}
+.image3Icon {
+    position: absolute;
+    top: 135px;
+    left: 1163px;
+    width: 185px;
+    height: 54px;
+    object-fit: cover;
+}
+.aboutUs {
+    position: absolute;
+    top: 91px;
+    left: 359px;
+}
+.cityTempo {
+    position: absolute;
+    top: 84px;
+    left: 593px;
+}
+.forEnterprise1 {
+    position: absolute;
+    top: 111px;
+    left: 593px;
+}
+.packersMovers1 {
+    position: absolute;
+    top: 140px;
+    left: 593px;
+}
+.courier1 {
+    position: absolute;
+    top: 169px;
+    left: 593px;
+}
+.services {
+    position: absolute;
+    top: 199px;
+    left: 593px;
+}
+.offers {
+    position: absolute;
+    top: 124px;
+    left: 359px;
+}
+.careers {
+    position: absolute;
+    top: 156px;
+    left: 359px;
+}
+.blog {
+    position: absolute;
+    top: 188px;
+    left: 359px;
+}
+.contactUs {
+    position: absolute;
+    top: 89px;
+    left: 807px;
+}
+.privacyPolicy {
+    position: absolute;
+    top: 111px;
+    left: 807px;
+}
+.termsOfService1 {
+    position: absolute;
+    top: 140px;
+    left: 807px;
+}
+.insuranceFaqs {
+    position: absolute;
+    top: 169px;
+    left: 807px;
+}
+.driverPartnerTerms1 {
+    position: absolute;
+    top: 193px;
+    left: 807px;
+}
+.weAreHere1 {
+    position: absolute;
+    top: 300px;
+    left: 49px;
+}
+.delhiNcr {
+    position: absolute;
+    top: 325px;
+    left: 49px;
+}
+.hyderabad {
+    position: absolute;
+    top: 325px;
+    left: 359px;
+}
+.bangalore {
+    position: absolute;
+    top: 325px;
+    left: 593px;
+}
+.mumbai {
+    position: absolute;
+    top: 325px;
+    left: 807px;
+}
+.vadodara {
+    position: absolute;
+    top: 325px;
+    left: 1163px;
+}
+.footerChild {
+    position: absolute;
+    top: 376px;
+    left: 0px;
+    background-color: #08112c;
+    width: 1440px;
+    height: 85px;
+}
+.vectorIcon5 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+}
+.instagram {
+    position: absolute;
+    top: 406px;
+    left: 49px;
+    border-radius: 20px;
+    background-color: rgba(109, 109, 109, 0.5);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.vectorIcon6 {
+    position: relative;
+    width: 20px;
+    height: 19.92px;
+}
+.facebook {
+    position: absolute;
+    top: 406px;
+    left: 96px;
+    border-radius: 20px;
+    background-color: rgba(109, 109, 109, 0.5);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.vectorIcon7 {
+    position: relative;
+    width: 18px;
+    height: 18px;
+}
+.linkedin {
+    position: absolute;
+    top: 407px;
+    left: 143px;
+    border-radius: 20px;
+    background-color: rgba(109, 109, 109, 0.5);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.vectorIcon8 {
+    position: relative;
+    width: 20px;
+    height: 14px;
+}
+.youtube {
+    position: absolute;
+    top: 409px;
+    left: 188px;
+    border-radius: 20px;
+    background-color: rgba(109, 109, 109, 0.5);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.vectorIcon9 {
+    position: relative;
+    width: 20.92px;
+    height: 17px;
+}
+.twitter {
+    position: absolute;
+    top: 408px;
+    left: 235px;
+    border-radius: 100px;
+    background-color: rgba(109, 109, 109, 0.5);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.pickupLogisticsSolutions1 {
+    position: absolute;
+    top: 401px;
+    left: 920px;
+}
+.footer {
+    position: absolute;
+    top: 3458px;
+    left: 0px;
+    background-color: #040a1a;
+    width: 1440px;
+    height: 461px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+}
+.desktop11 {
+    position: relative;
+    background-color: #f0f3ff;
+    width: 100%;
+    height: 3919px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+    font-family: 'Titillium Web';
+}
+
